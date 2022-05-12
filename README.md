@@ -1,4 +1,12 @@
-### Hi there 👋
+### 👋 Hi, I'm ELIAS HEZRON 
+### A Junior soldity Engineer
+
+I am passionate about blockchain technologies and its impact on finance. I also love educating and teaching others about Blockchain
+
+🔭 I’m currently working on a DEFI project to mimic Aave. I am also a blockchain Educator in uganda
+🌱 I’m currently learning the NEAR Protocol and how to Build on Tezos
+💬 Ask me about solidity
+ 📫 How to reach me: eliashezron23@gmail.com
 
 <!--
 **eliashezron/eliashezron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
