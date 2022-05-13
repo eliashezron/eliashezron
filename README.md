@@ -1,8 +1,8 @@
-# 👋 Hi, I'm ELIAS HEZRON 
-<br>
+# 👋 Hi, I'm Elias,
 
-## A Junior solidity Engineer
-## I am passionate about blockchain technologies
+
+## 👀 A Junior solidity Engineer
+## 💞️ I am passionate about blockchain technologies
 #### 🔭 I’m currently working on a DEFI project to mimic Aave. 
 #### 🌱 I’m currently learning the rust, NEAR Protocol and Tezos
 #### 👯 I’m looking to collaborate on frontend and blockchain projects.
