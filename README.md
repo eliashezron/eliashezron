@@ -3,12 +3,12 @@
 
 ## 👀 A Junior solidity Engineer
 ## 💞️ I am passionate about blockchain technologies
-#### 🔭 I’m currently working on a DEFI project to mimic Aave. 
-#### 🌱 I’m currently learning the rust, NEAR Protocol and Tezos
-#### 👯 I’m looking to collaborate on frontend and blockchain projects.
-#### 💬 Ask me about solidity
-#### ⚡ Fun fact: I  love debugging
-#### 📫 How to reach me: eliashezron23@gmail.com
+- 🔭 I’m currently working on a DEFI project to mimic Aave. 
+- 🌱 I’m currently learning the rust, NEAR Protocol and Tezos
+- 👯 I’m looking to collaborate on frontend and blockchain projects.
+- 💬 Ask me about solidity
+- ⚡ Fun fact: I  love debugging
+- 📫 How to reach me: eliashezron23@gmail.com
 
 ### Connect with me:
 [<img align="left" alt="Solidity" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/elias-hezron-b4010417a/)
