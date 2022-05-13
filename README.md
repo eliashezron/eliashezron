@@ -2,7 +2,7 @@
 
 
 ## 👀 A Junior solidity Engineer
-## 💞️ I am passionate about blockchain technologies
+## I am passionate about blockchain technologies
 - 🔭 I’m currently working on a DEFI project to mimic Aave. 
 - 🌱 I’m currently learning the rust, NEAR Protocol and Tezos
 - 👯 I’m looking to collaborate on frontend and blockchain projects.
@@ -37,8 +37,10 @@
 
 ---
 <details>
-   <summary> &#x1f4c8;:zap: My GitHub Stats </summary>
-[![EliasHezron's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliashezron&theme=radical)]
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="elias's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eliashezron&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
 </details>
 
 
@@ -47,7 +49,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 💞️I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
