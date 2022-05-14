@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Elias,
 
 
-## 👀 A Junior solidity Engineer
+## 👀 A Solidity Engineer
 ## I am passionate about blockchain technologies
 - 🔭 I’m currently working on a DEFI project to mimic Aave. 
 - 🌱 I’m currently learning the rust, NEAR Protocol and Tezos
