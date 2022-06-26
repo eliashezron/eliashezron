@@ -3,7 +3,7 @@
 
 ## 👀 A Solidity Engineer
 ## I am passionate about blockchain technologies
-- 🔭 I’m currently working on a DEFI project to mimic Aave. 
+- 🔭 My current focus is to contribute more to opensource. 
 - 🌱 I’m currently learning the rust, NEAR Protocol and Tezos
 - 👯 I’m looking to collaborate on frontend and blockchain projects.
 - 💬 Ask me about solidity
