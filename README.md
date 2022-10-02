@@ -4,7 +4,7 @@
 ## 👀 A Solidity Engineer
 ## I am passionate about blockchain technologies
 - 🔭 My current focus is to contribute more to opensource. 
-- 🌱 I’m currently learning the rust, NEAR Protocol and Tezos
+- 🌱 I’m currently perfecting my solidity.
 - 👯 I’m looking to collaborate on frontend and blockchain projects.
 - 💬 Ask me about solidity
 - ⚡ Fun fact: I  love debugging
