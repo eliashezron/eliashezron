@@ -16,7 +16,7 @@
 [<img align="left" alt="Solidity" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/0xeliashezron/)
 [<img align="left" alt="Solidity" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/eliashezron/)
 
-<br/><br/>
+<br/>
 
 ### Languages and Tools:
 <img align="left" alt="Solidity" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
