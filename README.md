@@ -3,9 +3,9 @@
 
 ## 👀 A Solidity Engineer
 ## I am passionate about blockchain technologies
-- 🚀 My current focus is building PesaPay also know as cashout. 
+- 🚀 My current focus is building cashout. A crypto offramping solution for subSaharan Africa. 
 - 🔭 Looking also to contribute more to opensource.
-- 🌱 I’m currently perfecting my solidity.
+- 🌱 I’m currently perfecting my solidity, Writing it in low level assembly.
 - 👯 I’m looking to collaborate on EVM blockchain projects.
 - 💬 Ask me about solidity
 - ⚡ Fun fact: I love debugging
