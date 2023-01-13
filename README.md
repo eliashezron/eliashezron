@@ -2,7 +2,7 @@
 
 
 ## 👀 A Solidity Engineer
-## I am passionate about blockchain technologies
+## I am passionate about blockchain based solutions 
 - 🚀 My current focus is building a crypto offramping solution for subSaharan Africa. 
 - 🔭 Looking also to contribute more to opensource.
 - 🌱 I’m currently perfecting my solidity, Writing it in low level assembly.
