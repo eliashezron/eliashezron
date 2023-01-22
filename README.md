@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Elias, Elias Hezron
 
 
-## 👀 A Solidity Engineer
+## 👀 A Solidity Developer 
 ## I am passionate about blockchain based solutions 
 - 🚀 currently building a crypto on and offramping solution for subSaharan Africa.
 - 👀 looking to work with companies using the blockchain to impact the world
