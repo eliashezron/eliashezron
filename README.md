@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Elias, Elias Hezron
+# 👋 Hi, I'm Elias,
 
 
 ## 👀 A Solidity Developer 
