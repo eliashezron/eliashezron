@@ -2,8 +2,10 @@
 
 
 ## 👀 A Solidity Developer 
+
 ## I am passionate about blockchain based solutions 
 - 🚀 currently building [oneramp](https://oneramp.is) a crypto on and offramping solution for subSaharan Africa.
+- Applicant [summer of bitcoin](https://summerofbitcoin.org), currently at proposal stage
 - 👀 looking to work with companies using the blockchain to impact the world
 - 🔭 Looking also to contribute more to opensource.
 - 🌱 I’m currently perfecting my solidity, Writing it in low level assembly.
