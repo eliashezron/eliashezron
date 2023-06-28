@@ -5,7 +5,7 @@
 
 ## I am passionate about blockchain based solutions 
 - 🚀 currently building [oneramp](https://oneramp.is) a crypto on and offramping solution for subSaharan Africa.
-- Intern Applicant [Nethermind]([https://summerofbitcoin.org](https://boards.eu.greenhouse.io/nethermind/jobs/4104204101#app)), currently at interview stage
+- 🤖 Intern Applicant [Nethermind](https://boards.eu.greenhouse.io/nethermind/jobs/4104204101#app), currently at interview stage
 - 👀 looking to work with companies using the blockchain to impact the world
 - 🔭 Looking also to contribute more to opensource.
 - 🌱 I’m currently perfecting my solidity, Writing it in low level assembly.
