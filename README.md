@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Elias, Elias Hezron
 
 
-## 👀 A Solidity Developer 
+## 👀 An Ethereum Core Developer Intern 
 
 ## I am passionate about blockchain based solutions 
 - 🚀 currently building [oneramp](https://oneramp.is) a crypto on and offramping solution for subSaharan Africa.
